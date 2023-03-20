@@ -16,4 +16,4 @@ console.log(color);
 console.log(false - true);
 console.log(`${color + --userAge/31}+ ${99/9}`);
 console.log(x);
-console.log('gitmaster 100level');
+console.log('copy 2');
